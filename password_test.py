@@ -1,7 +1,5 @@
-# password_test.py
-
-from password_to_hash import hash_password
-from check_password import check_password
+from passwordHash import hash_password
+from reviewPassword import check_password
 
 # Test password
 test_password = "MySecretPassword"
